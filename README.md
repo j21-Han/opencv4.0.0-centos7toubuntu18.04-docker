@@ -1,0 +1,1 @@
+# opencv4.0.0-centos7toubuntu18.04-docker
